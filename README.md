@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Passenger CSAT Analytics
 
@@ -367,4 +367,3 @@ Segment-specific strategies
 the airline can significantly improve overall satisfaction and strengthen customer loyalty.
 
 The Power BI dashboard serves as a decision-support tool, allowing the leadership team to make strategic, data-driven improvements that enhance the overall passenger experience.
->>>>>>> e18f08e375576c30af9ae59bbe11a0f9b263014f
