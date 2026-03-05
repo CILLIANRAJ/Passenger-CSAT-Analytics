@@ -1,10 +1,7 @@
 <<<<<<< HEAD
 
-# Airline Passenger Satisfaction Analysis
+# Passenger CSAT Analytics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/airline-passenger-satisfaction-analysis?logo=github)
-![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/aryakghosal/airline-passenger-satisfaction-analysis?logo=history&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github)
 
 ![Banner](Images/Image-1.jpg)
 <small style="font-size: 8px;">(Source: <a href="https://www.freepik.com/" target="_blank">Freepik</a>)</small>
