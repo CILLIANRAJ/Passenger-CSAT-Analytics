@@ -1,44 +1,33 @@
-#Airline Passenger Satisfaction Analysis – Power BI Project
-Table of Contents
+## Airline Passenger Satisfaction Analysis – Power BI Project
+
+## Table of Contents
 
 Description
-
 Project Overview
-
 Key Performance Indicators (KPIs)
-
 Data Source
-
 Skills Applied
-
 Tools & Technologies
-
 Insights & Strategic Recommendations
-
 Dashboard
-
 Conclusion
 
-Description
+## Description
 
 This project focuses on analyzing an Airline Passenger Satisfaction dataset to uncover the root causes behind a decline in customer satisfaction rates. Using Power BI, I designed an interactive dashboard to identify performance gaps and provide data-driven recommendations to help the airline enhance passenger experience and improve overall satisfaction levels.
 
 The analysis empowered leadership with actionable insights to make informed decisions and prioritize service improvements.
 
-Project Overview
+## Project Overview
 
 The airline industry operates in a highly competitive environment where customer satisfaction directly impacts brand loyalty and profitability. A noticeable decline in satisfaction ratings prompted the airline’s leadership team to seek a data-backed strategy for improvement.
 
 For this project, I analyzed feedback data from over 120,000 passengers, which included:
 
 Passenger demographics
-
 Flight distance and delay details
-
 Travel class and purpose
-
 Ratings on service factors (cleanliness, comfort, Wi-Fi, booking, etc.)
-
 Overall satisfaction level
 
 The objective was to identify the major drivers of dissatisfaction and recommend focused improvements.
@@ -46,108 +35,79 @@ The objective was to identify the major drivers of dissatisfaction and recommend
 During the analysis, I calculated multiple KPIs, examined customer segments, and identified patterns contributing to declining satisfaction.
 
 Key findings revealed:
-
 A high proportion of dissatisfied customers
-
 Noticeable arrival and departure delays
-
 Low ratings for In-flight Wi-Fi, online booking experience, cleanliness, legroom, and gate location
-
 Based on these findings, I proposed targeted, data-driven strategies to enhance the passenger experience.
 
-Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 KPIs were used to measure airline performance and understand areas needing improvement. These metrics helped translate raw data into meaningful business insights.
 
 Calculated KPIs:
-
 Total Passengers
-
 Male Passenger Percentage
-
 Female Passenger Percentage
-
 First-time Customer Percentage
-
 Returning Customer Percentage
-
 First-time Male & Female Customer Percentages
-
 Returning Male & Female Customer Percentages
-
 Average Arrival Delay (minutes)
-
 Average Departure Delay (minutes)
-
 Average Flight Distance (miles)
-
 Total Business Travel Customers
-
 Total Personal Travel Customers
-
 Total Satisfied Customers
-
 Total Dissatisfied Customers
-
 Satisfaction Rate (%)
-
 Dissatisfaction Rate (%)
 
-Formula Used:
+## Formula Used:
 
 Satisfaction Rate = (Total Satisfied Customers / Total Passengers) × 100
-
 Dissatisfaction Rate = (Total Dissatisfied Customers / Total Passengers) × 100
 
 These KPIs allowed clear performance tracking and segment-level comparison.
 
-Data Source
+## Data Source
 
 The dataset was obtained from the Data Playground provided by Maven Analytics.
 
 It contains satisfaction records for 129,880 passengers across 24 attributes. Each row represents one passenger and includes demographic details, travel characteristics, service ratings, and overall satisfaction status.
 
-Skills Applied
+## Skills Applied
 
 Data Cleaning
-
 Data Inspection
-
 Data Transformation
-
 Data Standardization
-
 Data Modeling
-
 Data Visualization
 
-Data Inspection
+# Data Inspection
 
 Reviewed raw data to identify inconsistencies, missing values, and formatting issues.
 
-Data Transformation
+# Data Transformation
 
 Performed filtering, aggregations, grouping, and calculations to prepare data for analysis.
 
-Data Standardization
+# Data Standardization
 
 Ensured consistency in formats such as text casing and structured categorical values.
 
-Data Modeling
+# Data Modeling
 
 Created relationships and logical structures to enable efficient reporting and dashboard building.
 
-Tools & Technologies
+## Tools & Technologies
 
 Microsoft Excel
-
 Power Query
-
 DAX
-
 Microsoft Power BI
 
-Insights & Strategic Recommendations
+## Insights & Strategic Recommendations
 1. In-flight Wi-Fi Needs Immediate Improvement
 
 In-flight Wi-Fi received the lowest average rating (2.73). The airline should enhance speed, reliability, and user accessibility. Clear connection instructions and service transparency can significantly improve perception.
@@ -192,38 +152,29 @@ Providing dedicated assistance, priority services, and discounted fares can enha
 
 39% dissatisfaction rate in short-distance flights suggests improving seating comfort, basic amenities, and flexibility in booking changes.
 
-Dashboard
+## Dashboard
 
 An interactive Power BI dashboard was designed to present:
 
 Passenger distribution
-
 Customer segmentation
-
 Satisfaction metrics
-
 Delay analysis
-
 Service rating comparisons
-
 Dynamic slicers for detailed filtering
 
 The dashboard enables leadership to monitor performance trends and identify high-priority improvement areas quickly.
 
-Conclusion
+## Conclusion
 
 The analysis clearly indicates that customer dissatisfaction is driven by service quality gaps, operational delays, and poor experiences within specific customer segments.
 
 By focusing on:
 
 Cleanliness
-
 Delay reduction
-
 Wi-Fi improvement
-
 Enhanced comfort
-
 Personalized services
 
 Segment-specific strategies
